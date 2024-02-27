@@ -1,4 +1,4 @@
-# MCC EXP 9
+# MCC EXP 6
 
 ## Table of contents
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-### MCC EXP 9
+### MCC EXP 6
 Android App that write and reads data from SD Card
 
 ### Screenshots
@@ -25,10 +25,7 @@ Android App that write and reads data from SD Card
 
 
 
-## Authors
- - Hayden Cordeiro   
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haydencordeiro/)
- [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haydencordeiro)  
+
 
 
 
